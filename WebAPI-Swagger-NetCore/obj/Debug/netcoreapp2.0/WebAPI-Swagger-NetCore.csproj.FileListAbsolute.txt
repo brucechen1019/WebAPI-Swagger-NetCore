@@ -1,0 +1,11 @@
+C:\Users\v-brucch\Source\Repos\WebAPI-Swagger-NetCore\WebAPI-Swagger-NetCore\bin\Debug\netcoreapp2.0\WebAPI-Swagger-NetCore.deps.json
+C:\Users\v-brucch\Source\Repos\WebAPI-Swagger-NetCore\WebAPI-Swagger-NetCore\bin\Debug\netcoreapp2.0\WebAPI-Swagger-NetCore.runtimeconfig.json
+C:\Users\v-brucch\Source\Repos\WebAPI-Swagger-NetCore\WebAPI-Swagger-NetCore\bin\Debug\netcoreapp2.0\WebAPI-Swagger-NetCore.runtimeconfig.dev.json
+C:\Users\v-brucch\Source\Repos\WebAPI-Swagger-NetCore\WebAPI-Swagger-NetCore\bin\Debug\netcoreapp2.0\WebAPI-Swagger-NetCore.dll
+C:\Users\v-brucch\Source\Repos\WebAPI-Swagger-NetCore\WebAPI-Swagger-NetCore\obj\Debug\netcoreapp2.0\WebAPI-Swagger-NetCore.csprojResolveAssemblyReference.cache
+C:\Users\v-brucch\Source\Repos\WebAPI-Swagger-NetCore\WebAPI-Swagger-NetCore\obj\Debug\netcoreapp2.0\WebAPI-Swagger-NetCore.csproj.CoreCompileInputs.cache
+C:\Users\v-brucch\Source\Repos\WebAPI-Swagger-NetCore\WebAPI-Swagger-NetCore\obj\Debug\netcoreapp2.0\WebAPI-Swagger-NetCore.AssemblyInfoInputs.cache
+C:\Users\v-brucch\Source\Repos\WebAPI-Swagger-NetCore\WebAPI-Swagger-NetCore\obj\Debug\netcoreapp2.0\WebAPI-Swagger-NetCore.AssemblyInfo.cs
+C:\Users\v-brucch\Source\Repos\WebAPI-Swagger-NetCore\WebAPI-Swagger-NetCore\bin\Debug\netcoreapp2.0\WebAPI-Swagger-NetCore.pdb
+C:\Users\v-brucch\Source\Repos\WebAPI-Swagger-NetCore\WebAPI-Swagger-NetCore\obj\Debug\netcoreapp2.0\WebAPI-Swagger-NetCore.dll
+C:\Users\v-brucch\Source\Repos\WebAPI-Swagger-NetCore\WebAPI-Swagger-NetCore\obj\Debug\netcoreapp2.0\WebAPI-Swagger-NetCore.pdb

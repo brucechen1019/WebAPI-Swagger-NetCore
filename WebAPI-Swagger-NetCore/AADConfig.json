@@ -1,0 +1,13 @@
+{
+  "AzureAd": {
+    "TenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+    "WebApiApp": {
+      "ClientId": "5729d4ee-0e0a-4bdc-bf71-38b022cab6aa"
+    },
+    "SwaggerApp": {
+      "ClientId": "d881a857-b73c-4255-9c60-9cb3f9f4663f",
+      "ClientSecret": null,
+      "RedirectUri": "http://localhost:30504/swagger/o2c.html"
+    }
+  }
+}
